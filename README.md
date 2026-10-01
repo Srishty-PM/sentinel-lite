@@ -6,6 +6,8 @@ Sentinel Lite probes four common failure modes, shows the bot's response, and tu
 
 [Browser tool](https://srishty-pm.github.io/sentinel-lite/) · [Sample report](docs/sample-report.md) · [Portfolio](https://github.com/Srishty-PM/cv) · [Srishty Pahujani](https://srishtypahujani.com/)
 
+![Sentinel Lite — labelled illustrative sample results](docs/preview.jpg)
+
 ## Explore it in one minute
 
 Open the browser tool and choose **Run Sample Demo**. No API key or target bot is needed. The demo uses fixed sample responses and verdicts, makes no model calls, and is labelled as illustrative throughout the report.
